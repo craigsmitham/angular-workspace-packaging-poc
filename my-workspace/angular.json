@@ -32,7 +32,7 @@
             ],
             "styles": [
               "projects/my-first-app/src/styles.scss",
-              "projects/my-lib/lib-styles.scss"
+              "projects/my-lib/my-lib.scss"
             ],
             "scripts": []
           },
