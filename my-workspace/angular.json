@@ -30,7 +30,10 @@
               "projects/my-first-app/src/favicon.ico",
               "projects/my-first-app/src/assets"
             ],
-            "styles": ["projects/my-first-app/src/styles.scss"],
+            "styles": [
+              "projects/my-first-app/src/styles.scss",
+              "projects/my-lib/lib-styles.scss"
+            ],
             "scripts": []
           },
           "configurations": {
